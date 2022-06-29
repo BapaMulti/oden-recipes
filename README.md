@@ -1,0 +1,1 @@
+This project is a simple website containing recipes. The point of this project is to teach me the basic elements of html
